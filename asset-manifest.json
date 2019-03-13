@@ -1,13 +1,13 @@
 {
   "main.css": "/status-dashboard/static/css/main.16ca2ee7.chunk.css",
-  "main.js": "/status-dashboard/static/js/main.89761591.chunk.js",
-  "main.js.map": "/status-dashboard/static/js/main.89761591.chunk.js.map",
+  "main.js": "/status-dashboard/static/js/main.396b6fac.chunk.js",
+  "main.js.map": "/status-dashboard/static/js/main.396b6fac.chunk.js.map",
   "runtime~main.js": "/status-dashboard/static/js/runtime~main.a539c1d2.js",
   "runtime~main.js.map": "/status-dashboard/static/js/runtime~main.a539c1d2.js.map",
   "static/js/2.614cb13f.chunk.js": "/status-dashboard/static/js/2.614cb13f.chunk.js",
   "static/js/2.614cb13f.chunk.js.map": "/status-dashboard/static/js/2.614cb13f.chunk.js.map",
   "index.html": "/status-dashboard/index.html",
-  "precache-manifest.d25853aacaa4bd16ebd502ad7b7b21e6.js": "/status-dashboard/precache-manifest.d25853aacaa4bd16ebd502ad7b7b21e6.js",
+  "precache-manifest.4a71751014df9c788c59ad28cd5844c8.js": "/status-dashboard/precache-manifest.4a71751014df9c788c59ad28cd5844c8.js",
   "service-worker.js": "/status-dashboard/service-worker.js",
   "static/css/main.16ca2ee7.chunk.css.map": "/status-dashboard/static/css/main.16ca2ee7.chunk.css.map"
 }
